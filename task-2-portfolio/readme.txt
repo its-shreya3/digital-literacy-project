@@ -3,9 +3,9 @@ Task 2 – Digital Portfolio
 In this task, I created and updated my professional digital profiles across multiple platforms to build a strong online presence.
 
 🔹 Platforms Created
-- **GitHub** – Used for showcasing projects, managing code, and collaborating with developers.
-- **LinkedIn** – Used for professional networking, career opportunities, and building a personal brand.
-- **ResearchGate** – Used for exploring academic research and connecting with researchers.
+GitHub – Used for showcasing projects, managing code, and collaborating with developers.
+LinkedIn – Used for professional networking, career opportunities, and building a personal brand.
+ResearchGate – Used for exploring academic research and connecting with researchers.
 
 🔹 Profile Details
 - Created a GitHub profile README including my name, branch, year, and career goals.

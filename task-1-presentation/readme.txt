@@ -1,1 +1,1 @@
-
+I created a digital literacy infographic using Canva. The design explains what digital literacy is and highlights important aspects such as useful digital tools, safe internet practices, and email etiquette. I used visual elements like icons, colors, and structured sections to make the information easy to understand and engaging. One challenge I faced was organizing multiple topics into a single design without making it look crowded. However, exploring Canva templates and customizing them made the process interesting and helped improve my creativity.

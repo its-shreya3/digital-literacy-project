@@ -10,10 +10,10 @@
 ---
 
 ## 👩‍💻 About Me
-- **Name:** Ms. Shreya Dalapati  
-- 🎓 B.Tech (AI/ML), 1st Year  
-- 🏫 VIT Bhopal University  
-- 💡 Interested in AI, Machine Learning & Development  
+- **Name:** Shreya Dalapati  
+- B.Tech (AI/ML), 1st Year  
+- VIT Bhopal University  
+- Interested in AI, Machine Learning & Development  
 
 ---
 
